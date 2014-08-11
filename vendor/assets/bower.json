@@ -1,0 +1,6 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "mapbox.js": "git://github.com/gina-alaska/mapbox-dist"
+  }
+}
